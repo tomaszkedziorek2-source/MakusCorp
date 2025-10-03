@@ -12,6 +12,6 @@
 </head>
 <body>
   <h1>Witaj na mojej stronie!</h1>
-  <p>To działa nawet z telefonu 📱</p>
+  <p>jestem Tomasz Kędziorek</p>
 </body>
 </html>
