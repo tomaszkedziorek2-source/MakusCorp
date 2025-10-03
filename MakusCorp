@@ -1,6 +1,17 @@
-git init
-git add .
-git commit -m "Pierwszy commit"
-git branch -M main
-git remote add origin https://github.com/TWOJ_LOGIN/moja-strona.git
-git push -u origin main
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title>Moja Strona</title>
+  <style>
+    body { font-family: sans-serif; text-align: center; margin: 2em; }
+    h1 { color: #2b7; }
+    p { font-size: 18px; }
+  </style>
+</head>
+<body>
+  <h1>Witaj na mojej stronie!</h1>
+  <p>To działa nawet z telefonu 📱</p>
+</body>
+</html>
